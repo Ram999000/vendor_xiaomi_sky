@@ -26063,7 +26063,7 @@ cc_prebuilt_binary {
                 "liblog",
                 "android.hardware.nfc@1.0",
                 "android.hardware.nfc@1.1",
-                "android.hardware.nfc@1.2"
+                "android.hardware.nfc@1.2",
                 "libc++",
                 "libc",
                 "libm",
